@@ -1,0 +1,93 @@
+# Popular Visual Studio Code Key Combinations for Windows
+
+Here are some of the most commonly used keyboard shortcuts in VS Code for Windows:
+
+---
+
+## **General Shortcuts**
+- `Ctrl + N`: Create a new file.
+- `Ctrl + O`: Open a file.
+- `Ctrl + S`: Save the current file.
+- `Ctrl + Shift + S`: Save all open files.
+- `Ctrl + W`: Close the current tab.
+- `Ctrl + ,`: Open VS Code settings.
+- `Ctrl + Shift + P`: Open the **Command Palette** (universal command search).
+- `Ctrl + K Ctrl + S`: Open keyboard shortcuts configuration.
+
+---
+
+## **Navigation & Tabs**
+- `Ctrl + P`: Quick file search and open.
+- `Ctrl + G`: Go to a specific line number.
+- `Ctrl + Tab`: Switch between open tabs.
+- `Ctrl + Shift + Tab`: Navigate tabs in reverse order.
+- `Alt + ← / →`: Navigate backward/forward in editor history.
+
+---
+
+## **Editing**
+- `Ctrl + C / Ctrl + X / Ctrl + V`: Copy, Cut, Paste.
+- `Ctrl + Z / Ctrl + Y`: Undo/Redo.
+- `Ctrl + D`: Select the next occurrence of the current word (multi-cursor).
+- `Shift + Alt + ↑ / ↓`: Duplicate line(s) up/down.
+- `Alt + ↑ / ↓`: Move line(s) up/down.
+- `Ctrl + /`: Toggle line comment.
+- `Shift + Alt + A`: Toggle block comment.
+- `Ctrl + Space`: Trigger code suggestions (IntelliSense).
+
+---
+
+## **Multi-Cursor & Selection**
+- `Alt + Click`: Add multiple cursors.
+- `Ctrl + Alt + ↑ / ↓`: Add cursors above/below.
+- `Ctrl + L`: Select the current line.
+- `Ctrl + Shift + L`: Select all occurrences of the current selection.
+
+---
+
+## **Search & Replace**
+- `Ctrl + F`: Find in the current file.
+- `Ctrl + H`: Replace in the current file.
+- `Ctrl + Shift + F`: Search across all files in the workspace.
+- `Ctrl + Shift + H`: Replace across all files.
+
+---
+
+## **Code Formatting**
+- `Shift + Alt + F`: Format the entire document.
+- `Ctrl + K Ctrl + F`: Format the selected code.
+
+---
+
+## **Integrated Terminal**
+- `` Ctrl + ` ``: Toggle the integrated terminal.
+- `Ctrl + Shift + ` ``: Create a new terminal instance.
+
+---
+
+## **Debugging**
+- `F5`: Start/continue debugging.
+- `F9`: Toggle breakpoint.
+- `F10`: Step over.
+- `F11`: Step into.
+- `Shift + F11`: Step out.
+
+---
+
+## **Extensions & Views**
+- `Ctrl + B`: Toggle the sidebar visibility.
+- `Ctrl + Shift + X`: Open the Extensions view.
+- `Ctrl + Shift + E`: Open the Explorer view.
+- `Ctrl + Shift + F`: Open the Search view.
+- `Ctrl + Shift + G`: Open the Source Control (Git) view.
+
+---
+
+## **Split Editor**
+- `Ctrl + \`: Split editor vertically.
+- `Ctrl + 1 / 2 / 3`: Switch between editor groups.
+
+---
+
+> **Tip**: Customize shortcuts via `File > Preferences > Keyboard Shortcuts`.  
+> Use `Ctrl + K Ctrl + R` to view all default keybindings in a browser.
